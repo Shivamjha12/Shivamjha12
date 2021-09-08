@@ -36,9 +36,7 @@
 <br>
 <br>
   <br>
-  
-[!Shivam GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shivamjha12&theme=tokyonight)](https://git.io/praveenscience)
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shivamjha12&theme=tokyonight)](https://git.io/praveenscience)
+[![Shivam's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shivamjha12&theme=tokyonight)](https://git.io/praveenscience)
 
 | ![Shivam github stats](https://github-readme-stats.vercel.app/api?username=Shivamjha12&show_icons=true&theme=tokyonight) | ![Shivam GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shivamjha12&theme=tokyonight) |
 | --- | --- |
