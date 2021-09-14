@@ -18,7 +18,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I am in intrested in making real world projects that help community and i also enjoy in this process.
+- 🔭 I am intrested in making real world projects that help community and i also enjoy in this process.
 
 - 🌱 I am learing web development, rest api development and data base managment System. 
 
