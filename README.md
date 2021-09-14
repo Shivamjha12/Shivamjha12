@@ -22,9 +22,9 @@
 
 - 🌱 I am learing web development, rest api development and data base managment System. 
 
-- 👯 I’m looking to collaborate on Projects,Tech Articles 
+- 👯 I’m looking to collaborate on Projects,Tech Articles.
 
-- 💬 Talk to me about Python, Freelancing Opportunites, Open Source 
+- 💬 Talk to me about Python, Freelancing Opportunites, Open Source. 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/Shivamjha12/MyLinks> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
