@@ -48,6 +48,57 @@
 
 <br>
 
+<!-- public class Account {
+
+    public String name;
+    public double balance = 0.0;
+    public double currentBalance;
+    
+    public void deposit(double amount,String name) {
+        double currentBalance = balance + amount;
+        System.out.println(name + " You deposited " + currentBalance + " INR in account" );
+
+    }
+    public void withdraw(double amount,String name) {
+        System.out.println(currentBalance);
+        if (amount < currentBalance){
+            double currentBalance = balance - amount;
+            System.out.println( name + " You withdraw " + currentBalance + " INR from your account" );
+            
+        }
+        else if (amount > currentBalance){
+            System.out.println(name + " Your balance is insufficient to withdraw, " + currentBalance + " is your current balance ");
+            
+        }
+        else{
+            System.out.println(name + " Something happening wrong please try it again after few seconds" );
+        }
+         
+        
+
+    }
+    public static void main(String[] args){
+        // System.out.println("Namste Java");
+        Account user1 = new Account();
+        Account user2 = new Account();
+        Account user3 = new Account();
+
+        user1.name = "Raju";
+        user2.name = "Shayam";
+        user3.name = "Babu";
+
+        user1.deposit(2000,"Raju");
+        user1.withdraw(150,"Raju");
+
+
+        // System.out.println("This Bank Account refers to "+ user1.name);
+        
+
+    }
+    
+}
+ -->
+
 
 -----
 Last Edited on: 08/09/2021
